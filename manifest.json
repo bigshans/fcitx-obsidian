@@ -1,0 +1,10 @@
+{
+	"id": "fcitx-obsidian",
+	"name": "Fcitx Obsidian",
+	"version": "0.1.0",
+	"minAppVersion": "1.5.0",
+	"description": "keep and restore fcitx state when leaving/re-entering insert mode",
+	"author": "bigshans",
+	"authorUrl": "https://github.com/bigshans",
+	"isDesktopOnly": true
+}
