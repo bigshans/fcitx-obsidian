@@ -1,7 +1,7 @@
 {
 	"name": "fcitx-obsidian",
 	"version": "1.0.0",
-	"description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+	"description": "keep and restore fcitx state when leaving/re-entering insert mode",
 	"main": "dist/main.js",
 	"scripts": {
 		"dev": "node esbuild.config.mjs",
